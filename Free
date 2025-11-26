@@ -1,1 +1,24 @@
-《uuid1》ee42f398f8173cbb《uuid1》
+{
+  "users": {
+    "testuser": {
+      "password": "123456",
+      "expiry": "2025/12/31",
+      "blocked": false
+    },
+    "admin": {
+      "password": "admin123",
+      "expiry": "2025/12/25",
+      "blocked": false
+    },
+    "demo": {
+      "password": "demo",
+      "expiry": "2024/01/01",
+      "blocked": true
+    },
+    "premium": {
+      "password": "premium123",
+      "expiry": "2026/06/15",
+      "blocked": false
+    }
+  }
+}
